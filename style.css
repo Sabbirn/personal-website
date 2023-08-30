@@ -1,3 +1,138 @@
 body{
+    font-family: 'Poppins', sans-serif;
     margin: 0;
+    background: white;
+}
+.Hello{
+    margin-top: 25%;
+    margin-bottom: 0;
+    font-size: 40px;
+    font-weight: 400;
+}
+.Sabbir{
+    color: rgba(241, 59, 111, 0.986);
+    font-weight: 800;
+    font-size: 50px;
+    margin-top: 0;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 0%;
+}
+.half-width2{
+    padding-left: 8%;
+}
+.half-width img{
+    width: 100%;
+    margin-top: 30px;
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+section{
+    height: 765px;
+}
+a{
+    text-decoration: none;
+    color: #ffff;
+    background: linear-gradient(90deg, rgba(241, 59, 111, 0.781) 0%, rgba(241, 59, 111, 0.986) 100%);
+    padding: 10px 30px;
+    font-size: 17px;
+    border-radius: 5px;
+}
+.ptag{
+    margin-bottom: 50px;
+}
+.biography-bg{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 15%;
+}
+.work-width{
+    margin-left: 8%;
+    margin-right: 0;
+}
+.work-width img{
+    width: 30%;
+}
+.work-bg h2{
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+}
+.work-bg{
+    height: 500px;
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 10%;
+}
+.footer-bg h2{
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 80px;
+}
+.footer h4{
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 0;
+}
+.footer h5{
+    text-align: center;
+    color: gray;
+    margin-top: 10px;
+}
+.footer p{
+    width: 460px;
+    text-align: center;
+    position: relative;
+    left: 35%;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    font-size: 17px;
+    font-weight: 100;
+}
+.fto{
+    margin: 0 auto;
+    width: 700px;
+    background: linear-gradient(90deg, rgba(241, 59, 111, 0.781) 0%, rgba(241, 59, 111, 0.986) 100%);
+    text-align: center;
+    padding: 30px;
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 170px;
+}
+.fto h3{
+    color: #ffff;
+    font-size: 15px;
+    font-weight: 100;
+}
+.fto h1{
+    color: #ffff;
+    font-size: 27px;
+    font-weight: 500;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer-bg{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
